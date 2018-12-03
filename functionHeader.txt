@@ -1,0 +1,44 @@
+Style 1:
+          ////<Function>
+          ////    <Function 's name>
+          ////</Function>
+          ////<Description>
+          ////    <Function 's Description>
+          ////</Description>
+          ////<Parameters>
+          ////    <Parameter1 's name>: In, <Parameter's description>
+          ////    <Parameter2 's name>: Out, <Parameter's description>
+          ////<Returns>
+          ////    <Return Type>
+          ////</Returns>
+          ////<Preconditions>
+          ////    <Precondition 1>
+          ////</Preconditions>
+          ////<Global Vars>
+          ////    <Global1 's name>: In, <Global's description>
+          ////    <Global2 's name>: Out, <Global's description>
+          ////</Global Vars>
+          ////<Functions Invoked>
+          ////    <Function1 's name>
+          ////    <Function2 's name>
+          ////</Functions Invoked>
+
+Style 2:
+/*******************************************************************************
+** Function Name      : <Function 's name>
+**
+** Description        : <Function 's Description>
+**
+** Parameters         : <Parameter1 's name>: In, <Parameter's description>
+**                      <Parameter2 's name>: Out, <Parameter's description>
+**
+** Return parameter   : <Return Type>
+**
+** Preconditions      : <Precondition 1> e.g: Class xxx must be initialized
+**
+** Global Variables   : <Global1 's name>: In, <Global's description>
+**                      <Global2 's name>: Out, <Global's description>
+**
+** Function Invoked   : <Function1 's name>, <Function2 's name>
+**
+*******************************************************************************/
